@@ -1,5 +1,5 @@
-<h1 align="center">Welcome👋, I'm Ahmed Ammar</h1>
-<h3 align="center">Software Engineer expert in Front-End Web & Mobile Application</h3>
+<h1>Welcome👋, I'm Ahmed Ammar</h1>
+<h3>Software Engineer expert in Front-End Web & Mobile Application</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
